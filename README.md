@@ -3,6 +3,7 @@ h
 
 A clean and simple method for assigning the letter 'h' to a variable
 
+```
 var h = 
   (function(x,
  e,y)
@@ -33,3 +34,4 @@ x
 (
 'new function();'
 ,eval,'length');
+```
